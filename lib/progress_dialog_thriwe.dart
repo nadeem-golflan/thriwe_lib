@@ -17,7 +17,7 @@ class ProgressDialogWidget extends StatefulWidget {
       this.onInIt,
       this.color = const Color(0xFF388E3C),
       this.progressType = ProgressType.IOS,
-      this.progressMessage = "Please wait..."})
+      this.progressMessage = "Hello wait..."})
       : super(key: key);
 
   @override
